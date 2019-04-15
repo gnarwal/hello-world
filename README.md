@@ -1,4 +1,5 @@
 # hello-world
-hello it's me
 
-I like swimming and dogfighting
+This is a branch edit for practice.
+
+Just following the tutorial at this point.
